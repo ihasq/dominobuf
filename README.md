@@ -1,2 +1,2 @@
-# dominobuf
-Domino Buffer
+# Domino Buffers
+Category Theory implemention
